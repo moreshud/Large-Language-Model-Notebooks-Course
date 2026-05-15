@@ -1,11 +1,13 @@
 
+
+⚠️ **45% off *Rearchitecting LLMs* + entire Manning catalog with code `martra26` — Valid until May 27, 2026** | [Shop](https://hubs.la/Q040tvsK0)
+
+<a href="https://hubs.la/Q040tvsK0">
+  <img src="https://github.com/peremartra/Rearchitecting-LLMs/blob/main/Images/linkedin-profile-banner-martra.jpg" alt="alt text" width="100%">
+</a>
+
 ---
 ## Build with LLMs: Hands-on Projects for Engineers, Researchers and Developers using Large Language Models, GPT, LLaMA, LangChain and Hugging Face
-<p align="center">
-<a href="https://hubs.la/Q040tvsK0">
-<img width="451" height="257" alt="newinmeap" src="https://github.com/user-attachments/assets/6ec9e833-6bc4-4792-9c09-230744027841" />
-</a>
-</p>
 
 <table>
   <tr>
