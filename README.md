@@ -1,11 +1,4 @@
 
-
-⚠️ **45% off *Rearchitecting LLMs* + entire Manning catalog with code `martra26` — Valid until May 27, 2026** | [Shop](https://hubs.la/Q040tvsK0)
-
-<a href="https://hubs.la/Q040tvsK0">
-  <img src="https://github.com/peremartra/Rearchitecting-LLMs/blob/main/Images/linkedin-profile-banner-martra.jpg" alt="alt text" width="100%">
-</a>
-
 ---
 ## Build with LLMs: Hands-on Projects for Engineers, Researchers and Developers using Large Language Models, GPT, LLaMA, LangChain and Hugging Face
 
@@ -204,7 +197,13 @@ After the brief explanation we see an example about how is possible to fine-tune
 | --- | --- |
 
 ## [Pruning Techniques for Large Language Models](https://github.com/peremartra/Large-Language-Model-Notebooks-Course/tree/main/6-PRUNING)
-**This section is still under construction. The goal is to build a curriculum that will take us from the most simple pruning techniques to creating a model using the same techniques employed by leading companies in the field, such as Microsoft, Google, Nvidia, or OpenAI, to build their models.**
+**This section has evolved into something much bigger. The curriculum originally planned here — covering pruning techniques from the basics to the methods used by Microsoft, Google, NVIDIA, or Mistral to build their frontier models — became the foundation of [Rearchitecting LLMs: Structural Techniques for Efficient Models](https://hubs.la/Q040tvsK0), currently available through Manning's Early Access Program (MEAP).**
+
+**The book goes well beyond pruning: it covers knowledge distillation, attention optimization, model specialization through fine-tuning, and quantization — all hands-on, all designed to run on free-tier hardware. If you've been waiting for this content, that's where you'll find it.**
+
+<a href="https://hubs.la/Q040tvsK0">
+  <img src="https://github.com/peremartra/Rearchitecting-LLMs/blob/main/Images/linkedin-profile-banner-martra.jpg" alt="alt text" width="100%">
+</a>
 
 ### Prune a distilGPT2 model using l1 norm to determine less important neurons. 
 In the first notebook, the pruning process will be applied to the feedforward layers of a distilGPT2 model. This means the model will have reduced weights in those specific layers. The neurons to prune are selected based on their importance scores, which we compute using the L1 norm of their weights. It is a simple aproach, for this first example, that can be used when you want to create a Pruned Model that mimics the Base model in all the areas. 
@@ -362,4 +361,6 @@ _____________
   url = {https://github.com/peremartra/optipfair}
 }
 ```
+
+
 
